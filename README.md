@@ -1,2 +1,5 @@
-# exercise-tracker-microservice
-A kind of note keeping application using express on Glitch as a part of FCC Microservices and API's curriculum
+# Exercise Tracker REST API
+
+#### A microservice project, part of Free Code Camp's curriculum
+
+
